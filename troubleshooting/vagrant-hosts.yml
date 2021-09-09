@@ -1,0 +1,20 @@
+# vagrant-hosts.yml - List of hosts to be created by Vagrant.
+#
+# For more information about the possible settings, see the documentation at
+# <https://github.com/bertvv/ansible-skeleton>
+---
+
+- name: db
+  ip: 192.168.56.73
+
+- name: web
+  ip: 192.168.56.72
+
+- name: ns1
+  ip: 192.168.56.10
+
+- name: ns2
+  ip: 192.168.56.11
+
+- name: fs
+  ip: 192.168.56.12
