@@ -19,7 +19,3 @@ Gerelateerde repositories:
 ## Bijdragen
 
 Bijdragen aan het hier gepubliceerde lesmateriaal zijn van harte welkom! verbeteren van tikfouten, toevoegingen, onduidelijkheden melden, enz. Je kan een Issue of een Pull Request openen.
-
-## Licentie-informatie
-
-Deze syllabus is samengesteld door [Bert Van Vreckem](https://github.com/bertvv/) en valt onder de [Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationale Publieke Licentie](http://creativecommons.org/licenses/by-sa/4.0/).
